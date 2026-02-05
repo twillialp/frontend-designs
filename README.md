@@ -1,2 +1,1 @@
-# css-projects
-Following the scrimba 24-project videos
+had to start over to rename the stylesheets to match their respective html files
